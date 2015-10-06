@@ -1,4 +1,4 @@
 class Gamer(object):
     pass
 
-gamer = Gamer()
+gamer = Gamered()
